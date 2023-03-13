@@ -30,7 +30,7 @@
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
-						<b>Lista de cursos y tarifas</b>
+						<b>Lista de planes y tarifas</b>
 						<span class="float:right"><a class="btn btn-primary col-sm-6 col-md-2 float-right" href="javascript:void(0)" id="new_course">
 								<i class="fa fa-plus"></i> Curso
 							</a></span>
@@ -41,7 +41,7 @@
 							<thead>
 								<tr>
 									<th class="text-center">#</th>
-									<th class="">Curso/Nivel</th>
+									<th class="">Plan/Velocidad</th>
 									<th class="">Descripción</th>
 									<th class="">Costo total</th>
 									<th class="text-center">Acción</th>

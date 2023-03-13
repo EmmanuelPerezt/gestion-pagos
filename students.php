@@ -31,9 +31,9 @@
 			<div class="col-md-12">
 				<div class="card">
 					<div class="card-header">
-						<b>Lista de Estudiantes </b>
+						<b>Lista de clientes </b>
 						<span class="float:right"><a class="btn btn-primary col-md-1 col-sm-6 float-right" href="javascript:void(0)" id="new_student">
-								<i class="fa fa-plus"></i> Estudiante
+								<i class="fa fa-plus"></i> cliente
 							</a></span>
 					</div>
 					<div class="card-body">
@@ -41,7 +41,7 @@
 							<thead>
 								<tr>
 									<th class="text-center">#</th>
-									<th class="">ID No.</th>
+									<th class="">Ip</th>
 									<th class="">Nombre</th>
 									<th class="">Información</th>
 									<th class="text-center">Acción</th>
