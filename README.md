@@ -9,4 +9,5 @@ Este Sistema de Gestión de Pagos en PHP y MySQL con Código Fuente le permite a
 - Listar el Reporte de Pagos y Usuarios
 
 Más información en el siguiente enlace:
-<a href="https://www.configuroweb.com/sistema-de-gestion-de-pagos-en-php-y-mysql/">Sistema de Gestión de Pagos en PHP y MySQL</a>
+<a href="https://intermaxmx.com/>
+Sistema de Gestión de Pagos en PHP y MySQL</a>
