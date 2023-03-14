@@ -6,7 +6,7 @@
 <!-- Google Fonts -->
 <title>Gestión Pagos</title>
 <link rel="stylesheet" href="assets/font-awesome/css/all.min.css">
-<link rel="icon" type="image/x-icon" href="assets/uploads/favicon.png">
+<link rel="icon" type="image/x-icon" href="assets/uploads/intermax.jpeg">
 
 
 <!-- Vendor CSS Files -->
